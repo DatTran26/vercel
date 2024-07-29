@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/DatTran26" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"target="_blank" />
   </a> 
   <a href="https://www.youtube.com/channel/UCnuBw9DUeNbhHtdVMs1D0kQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
